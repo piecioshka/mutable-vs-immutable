@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "warsawjs-workshop-9-mutable-vs-immutable",
+    "description": "Testing performance of mutable vs immutable object during detect changes",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:piecioshka/warsawjs-workshop-9-mutable-vs-immutable.git"
+    }
+}
