@@ -1,10 +1,10 @@
-# warsawjs-workshop-9-mutable-vs-immutable
+# mutable-vs-immutable
 
-> :ledger: Testing performance of mutable vs immutable object during detect changes
+:ledger: Testing performance of mutable vs immutable object during detect changes
 
 ## Demo 🎉
 
-<https://piecioshka.github.io/warsawjs-workshop-9-mutable-vs-immutable/>
+<https://piecioshka.github.io/mutable-vs-immutable/>
 
 ## Results
 
