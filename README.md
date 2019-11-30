@@ -8,9 +8,7 @@
 
 ## Results
 
-Number of items in list:
-
-* 1 item
+* **1 item** in list
 
 ```text
 isTheSameMutableList true
@@ -20,7 +18,7 @@ isTheSameImmutableList false
 Create immutable list: 0.318115234375ms
 ```
 
-* 10 items
+* **10 items** in list
 
 ```text
 isTheSameMutableList true
@@ -30,7 +28,7 @@ isTheSameImmutableList false
 Create immutable list: 0.30712890625ms
 ```
 
-* 100 items
+* **100 items** in list
 
 ```text
 isTheSameMutableList true
@@ -40,7 +38,7 @@ isTheSameImmutableList false
 Create immutable list: 0.30712890625ms
 ```
 
-* 1000 items
+* **1000 items** in list
 
 ```text
 isTheSameMutableList true
@@ -50,7 +48,7 @@ isTheSameImmutableList false
 Create immutable list: 0.343994140625ms
 ```
 
-* 10000 items
+* **10000 items** in list
 
 ```text
 isTheSameMutableList true
