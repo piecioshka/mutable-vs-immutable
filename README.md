@@ -2,7 +2,7 @@
 
 :ledger: Testing performance of mutable vs immutable object during detect changes
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/mutable-vs-immutable/>
 
